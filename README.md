@@ -1,11 +1,10 @@
 # image_processing
 
-**Always upload a file with new version number (filename_v#)**
-
-**If using branches:**
+**Note for using branches:**
 - Use version number (v#) while naming a new branch
+- upload a file with new version number (filename_v#)
 - Don't forget to merge
-*(Also don't tick '[ ]delete source branch' while merging)*
+*(Also DO NOT tick '[ ]delete source branch' while merging)*
 
 *Link for Google Meet* [Scientific Project Meeting](https://meet.google.com/kns-kcok-xtg)
 
