@@ -2,7 +2,7 @@
 
 **Note for using branches:**
 - Use version number (v#) while naming a new branch
-- upload a file with new version number (filename_v#)
+- Upload a file with new version number (filename_v#)
 - Don't forget to merge
 *(Also DO NOT tick '[ ]delete source branch' while merging)*
 
